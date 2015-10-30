@@ -9,6 +9,6 @@ public class JavaprojectServlet extends HttpServlet {
 			throws IOException {
 		resp.setContentType("text/plain");
 		resp.getWriter().println("Hello, world");
-		resp.getWriter().println("Hello, world");
+
 	}
 }
